@@ -1,7 +1,7 @@
 <H3>NAME : Charu Nethra R</H3>
 <H3>REGISTER NO.: 212223230035</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 21-05-2026</H3>
+<H3>DATE: 22/04/26</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
